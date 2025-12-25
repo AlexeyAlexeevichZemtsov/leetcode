@@ -16,3 +16,4 @@ class Solution:
                     max_profit = profit    # Потом считаем прибыль
                     
         return max_profit
+# необходимо улучшить скорость выполнения
